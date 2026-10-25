@@ -4,7 +4,7 @@ Software engineer in Fort Myers, FL. B.S. Software Engineering (FGCU, 2025), now
 
 I like turning messy problems into clean code: full-stack web apps, AI assistants, games, and the occasional robot that plays chess.
 
-**Website:** [lerbernard.github.io](https://lerbernard.github.io) · **LinkedIn:** [lee-bernard-7596b81b2](https://www.linkedin.com/in/lee-bernard-7596b81b2/) · **Résumé:** [PDF](https://lerbernard.github.io/resume.pdf) · **Email:** leemarvinbernard@gmail.com
+**Website:** [lerbernard.github.io](https://lerbernard.github.io) · **LinkedIn:** [lee-bernard-7596b81b2](https://www.linkedin.com/in/lee-bernard-7596b81b2/) · **Résumé:** [PDF](https://lerbernard.github.io/Lee_Bernard_Resume.pdf) · **Email:** leemarvinbernard@gmail.com
 
 ## What I'm working on
 
